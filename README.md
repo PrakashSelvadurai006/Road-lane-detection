@@ -3,11 +3,6 @@
 ## 📌 Project Overview
 
 Road Lane Localization is a computer vision-based project that detects road lane markings from images and video streams using OpenCV. The system processes real-time video input to identify lane lines and overlay them on the road, which can assist in autonomous driving and lane departure warning systems.
-
-This project was developed as a Mini Project at
-**Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College**
-Department of Information Technology
-
 ---
 
 ## 🎯 Objective
